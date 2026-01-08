@@ -1,0 +1,31 @@
+---
+title: Knowledge Base
+links:
+  - title: Knowledge Base
+    description: Tips/Tricks for Bicycle Maintenance
+    website: https://github.com
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+menu:
+    main: 
+        weight: 2
+        params:
+            icon: link
+
+comments: false
+---
+
+## Stop Hydraulic Brake Noise
+
+1. Check for caliper alignment
+1. Clean/scour pads
+1. Clean/scour rotor
+1. Reassemble
+
+```yaml
+links:
+  - title: Stop Noisy Hydraulic Brakes
+    description: Pulled from GCN Tech
+    website: /kb/hydraulicbrakenoise.md
+    image: https://hips.hearstapps.com/hmg-prod/images/disc-brake-maintenance-0228-preview-3-1671642267.jpg
+    image: /img/avatar.png
+```
