@@ -33,7 +33,7 @@ Calendar Events involve commercial or social rides.  Reach out to have your even
 
 **April 2026** <br>
 11-Apr - Cinderella Classic 100k 🧚🏼‍♀️ (Dublin) - [link](https://www.valleyspokesmen.org/cinderellaclassic/) <br>
-12-Apr - Tierra Bella (Dublin) - [link](https://tierrabella.org/) <br>
+12-Apr - Tierra Bella (Gilroy) - [link](https://tierrabella.org/) <br>
 18-Apr - Sea Otter Classic [r][g][m] - [link](https://www.seaotterclassic.com/whats-new/) <br>
 18-Apr - Lake Sonoma 400k (Davis) - [link](https://sites.google.com/view/goldcountryrandonneurs/2026-events) <br>
 18-Apr - Wildflower Century (SLO) - [link](https://www.slobc.org/wildflower/index.html) <br>
@@ -41,11 +41,12 @@ Calendar Events involve commercial or social rides.  Reach out to have your even
 25-Apr - Levi's Grand Fondo 100k (Windsor) - [link](https://www.levisgranfondo.com/)  <br>
 26-Apr - Chico Wildflower Festival - [link](https://www.wildflowercentury.org/) <br>
 
-**May 2026** <br>
+**May 2026** (Bike Month) <br>
 02-May - Wine Country Century - [link](https://www.winecountrycentury.com/) <br>
 02-May - Bike Around the Buttes 100k (Sutter) - [link](http://www.bikearoundthebuttes.com/) <br>
 03-May - Grizzly Peak Centurty (Moraga) - [link](https://www.grizz.org/century/home/index.php) <br>
-09-May - Grass Vista 600k (Sacramento) - [link](https://sites.google.com/view/goldcountryrandonneurs/2026-events) <br>
+09-May - Grass Vista 600k (Sacramento) - [link](https://sites.google.com/view/goldcountryrandonneurs/2026-events) <br> 
+14-May - Bike to Wherever Day - [Link](https://www.bayareabiketowork.com/)
 
 **June 2026** <br>
 07-Jun - Most Beautiful Ride (Lake Tahoe) 100k - [link](https://pages.lls.org/events/home/tahoe26) <br>
