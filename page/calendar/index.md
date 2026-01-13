@@ -9,7 +9,7 @@ menu:
     main: 
         weight: 2
         params:
-            icon: link
+            icon: calendar
 
 comments: false
 ---

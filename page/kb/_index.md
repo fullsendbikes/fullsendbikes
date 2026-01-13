@@ -4,5 +4,5 @@ menu:
         name: Knowledge Base
         weight: 1
         params:
-            icon: archives
+            icon: brain
 ---
