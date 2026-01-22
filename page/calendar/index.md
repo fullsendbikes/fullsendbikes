@@ -50,6 +50,7 @@ Calendar Events involve commercial or social rides.  Reach out to have your even
 
 **June 2026** <br>
 07-Jun - Most Beautiful Ride (Lake Tahoe) 100k - [link](https://pages.lls.org/events/home/tahoe26) <br>
+20-Jun - Enve Grodeo (Utah) 92mi - [link](https://enve.com/pages/grodeo) <br>
 
 **July 2026** <br>
 11-Jul - Death Ride (Alpine County) - [link](https://deathride.com/) <br>
