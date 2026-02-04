@@ -40,3 +40,4 @@ Usually "layer-heavy." It can be 45°F and foggy at the 8:00 AM start, then 80°
 Park Resource: Fort Ord Dunes [State Park](https://www.parks.ca.gov/?page_id=580) <br>
 Laguna Seca Raceway: Wolf Hill Parking Area [Google Map Link](https://maps.app.goo.gl/uoYiGzyRaC62uSAN6) <br>
 Downloadable GPX file: [Link](https://connect.garmin.com/app/course/429509959) <br>
+second GPX with better parking: [Link](https://connect.garmin.com/app/course/430557082)
