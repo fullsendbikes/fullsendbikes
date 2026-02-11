@@ -13,15 +13,15 @@ comments: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/emlPtC0yqjY?si=ISsWvvX6X009BKe5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-San Mateo published a video explaining how California law classifies and regulates e‑bikes and other small electric rideables, with a focus on safety and what’s legal on San Mateo streets. <br>
+San Mateo Police Department published a video explaining how California law classifies and regulates e‑bikes and other small electric rideables, with a focus on safety and what’s legal on San Mateo streets. <br>
 
 ## Summary - Purpose and context
 
-San Mateo Polie Department hosts a “Real Talk” session to clear up confusion around e‑bikes, scooters, mopeds, small electric motorcycles, and motorized boards, especially for parents buying them for kids.  They emphasize this is an evolving area of law and that the main goal is education, *not discouraging ownership.*  <br>
+San Mateo Police Department hosts a “Real Talk” session to clear up confusion around e‑bikes, scooters, mopeds, small electric motorcycles, and motorized boards (Unicycles) -- with a focus on parents buying them for kids.  They emphasize this is an evolving area of law and that the main goal is education, *not discouraging ownership.*  <br>
 
 ## Core legal definitions
 
-An “electric bicycle” must have pedals and a motor no more than 750 watts; above that, it is no longer an e‑bike under California law. <br>
+An “electric bicycle” must have pedals and a motor no more than 750 watts; above that, it's no longer an e‑bike under California law. <br>
 There are three e‑bike classes: <br>
 * Class 1: pedal assist only, up to 20 mph. <br>
 * Class 2: throttle (no pedaling needed), but motor cuts out at 20 mph. <br>
@@ -65,3 +65,6 @@ The presenters stress the severity of injuries from high‑speed electric vehicl
 Parents **can be criminally liable** for giving a vehicle that legally requires a license (moped/motorcycle) to a child who does not have one, or for enabling unlicensed riding. <br>
 
 San Mateo Police Department recommends formal training and information from CHP (motorcycle and e‑bike safety programs, app, DMV handbook) and provide links. [[1](https://catsip.berkeley.edu/news/chp-unveils-their-new-e-bike-safety-training-program)] [[2](https://www.youtube.com/watch?v=CgL9Suf7oT8&t=55s)]<br>
+
+
+* E-Bike Access list of [motos to avoid](https://www.ebikeaccess.org/rogue-gallery-e-motos-to-avoid)
