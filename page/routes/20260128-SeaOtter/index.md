@@ -6,6 +6,7 @@ image: fort-ord.webp
 tags:
     - Century
     - Gravel
+    - MTB Route
 comments: false
 ---
 

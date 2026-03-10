@@ -6,6 +6,7 @@ image: MtTam.webp
 tags:
     - Century
     - Gravel
+    - MTB Route
 comments: false
 ---
 
