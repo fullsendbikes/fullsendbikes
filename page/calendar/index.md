@@ -15,7 +15,8 @@ comments: false
 ---
 
 
-Calendar Events involve commercial or social rides.  Reach out to have your event listed.
+Calendar Events involve commercial or social rides.  Reach out to have your event listed. <br>
+*Check the [Meetup Calendar](https://www.meetup.com/full-send-rides/events/calendar/) of events for twice-weekly local rides*
 
 **January 2026** <br>
 04-Jan - Rockville Cyclocross - [link](https://www.bikereg.com/rockville-cyclocross-series) <br>
@@ -32,6 +33,7 @@ Calendar Events involve commercial or social rides.  Reach out to have your even
 21-Mar - Davis, Dunnigan & the Delta 300k (Davis) - [link](https://sites.google.com/view/goldcountryrandonneurs/2026-events) <br>
 28-Mar - FCC Raymond Gravel Event 100k [g] - [link](https://fresnocycling.com/Everyone-Loves-Raymond) <br>
 29-Mar - Livermore Criterium - [link](https://www.bikereg.com/sky-express-events-livermore-criterium) <br>
+* *DST Time shifts mid-week local rides to [Arastradero](https://www.paloalto.gov/Departments/Community-Services/Parks-Open-Space-Golf-Division/Neighborhood-Parks/Pearson-Arastradero-Preserve) - [Meetup Calendar](https://www.meetup.com/full-send-rides/events/calendar/)*
 
 **April 2026** <br>
 11-Apr - Cinderella Classic 100k 🧚🏼‍♀️ (Dublin) - [link](https://www.valleyspokesmen.org/cinderellaclassic/) <br>
