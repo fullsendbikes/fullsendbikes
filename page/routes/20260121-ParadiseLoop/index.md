@@ -22,6 +22,7 @@ Public restrooms and water are straightforward on this loop: there are bathrooms
 
 # Additional Info/Summary
 **Bail-out Option:** [Tiburon Ferry Schedule](https://www.goldengate.org/ferry/route-schedule/tiburon-san-francisco/) *(cuts distance in half)* <br>
+**Take Note:** Crossing the golden gate bridge can be WINDY (and sometimes crowded).  Walk around towers if uncomfortable. <br>
 **Start Location:** [Caltrain San Francisco](https://www.caltrain.com/schedules/pdfs)<br>
 **Distance:** 45.1 miles (72 km)<br>
 **Downloadable GPX file:** [Link](https://connect.garmin.com/app/course/428293146) <br>

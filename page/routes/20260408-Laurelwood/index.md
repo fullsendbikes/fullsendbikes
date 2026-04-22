@@ -26,7 +26,7 @@ To get the absolute most out of this terrain, here is how you should prep your r
 * **Tires & Weather:** Expect cool and slick conditions, so equip aggressive, mud-shedding tires and drop your PSI slightly to grip the slick, muddy terrain.
 * **Heads Up:** Watch out for poison oak creeping onto the narrower singletrack, and note that there are temporary restrooms available at the trailhead while the main park facilities sometimes closed for service/repair.
 
-Get your bikes tuned up, and let's go send it!
+Get your bikes tuned up, and go send it!
 
 
 Area Resource: [Parks & Rec](https://www.cityofsanmateo.org/3345/LaurelwoodSugarloaf-Park) <br>
