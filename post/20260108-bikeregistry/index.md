@@ -3,6 +3,7 @@ title: Bicycle Registry
 description: Recover your bicycle if its lost or stolen
 date: 2026-01-08
 image: bikelock.webp
+comments: false
 categories:
     - Registry
     - Stolen

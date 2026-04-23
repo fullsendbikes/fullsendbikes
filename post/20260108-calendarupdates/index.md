@@ -7,6 +7,7 @@ categories:
     - Road
     - Events
 image: startfinish.webp
+comments: false
 tags:
     - Calendar
     - Race

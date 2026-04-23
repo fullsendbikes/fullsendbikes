@@ -4,6 +4,7 @@ description: Starting Suspension PSI
 date: 2026-01-28
 slug: "psi"
 image: sag.webp
+comments: false
 categories:
     - Suspension
     - New Bike Day

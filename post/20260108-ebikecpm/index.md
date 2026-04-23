@@ -9,6 +9,7 @@ tags:
     - E-Bike
     - Maintenance
     - Reviews
+comments: false    
 ---
 
 ## After 10,000 miles, here's what happened to this electric bike
