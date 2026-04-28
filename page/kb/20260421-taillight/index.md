@@ -10,7 +10,7 @@ weight: 7
 ---
 
 ## TL;DR
-Get yourself a Tail Light Camera!  In the event of a road rage incident, "right hook", or other roadside incident, footage of your speed and placement provides evidence.  You're safer at a minimal upcharge. <br>
+Get yourself a Tail Light Camera!  In the event of a road rage incident, "[right hook](https://www.zinn-law.com/personal-injury/bicycle-accidents/bicycle-accidents-caused-by-collisions-with-cars-and-buses/the-right-hook-bicycle-accident/)", or other roadside incident, footage of your speed and placement provides evidence.  You're safer at a minimal upcharge. <br>
 Garmin [Varia RCT715](https://www.garmin.com/en-US/p/721258/) available through Full Send Bikes now.
 
 ## Garmin Varia 820 vs. Varia 515: What’s Different?

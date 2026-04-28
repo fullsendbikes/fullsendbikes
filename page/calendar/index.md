@@ -14,7 +14,8 @@ comments: false
 ---
 
 
-Calendar Events involve commercial or social rides.  Reach out to have your event listed. <br>
+## Calendar Events involve commercial or social rides.
+*Reach out to have your event listed.* <br>
 *Check the [Meetup Calendar](https://www.meetup.com/full-send-rides/events/calendar/) of events for twice-weekly local rides*
 
 **January 2026** <br>
@@ -84,3 +85,8 @@ Calendar Events involve commercial or social rides.  Reach out to have your even
 04-Oct - The Grizzly 100k [g] - [link](https://thegrizzlyride.com/) <br>
 17-Oct - Foxy Fall Century (Davis) - [link](https://davisbikeclub.org/foxys-fall-century/) <br>
 28-Oct - Team Fremont Membership  - [link](https://ncnca.org/clubs/teamfremontnew/) <br>
+
+## Bike Swap / Misc
+
+17-May - Bike Swap Meet (BikeX.Org Palo Alto) - [link](https://shop.bikex.org/product/bikex-spring-swap-meet-may-17-2026-10am-2pm-vendor-spot/ZCKYUYWBLQLLVC77BTS62UCN)
+06-Jun - Spring Bike Swap (Marin Museum of Bicycling) = [link](https://www.rotarygoldcountrychallenge.com/) <br>

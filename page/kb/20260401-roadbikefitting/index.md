@@ -7,6 +7,8 @@ tags:
     - New Bike Day
     - Fitting
 weight: 1   
+category: Road
+comments: false
 ---
 
 Achieving a proper bike fit is a journey of trial and error. The goal is to maximize your comfort, prevent injury, and ensure efficient power transfer. Because no two bodies are identical, consider these guidelines as starting points rather than rigid rules. <br>
