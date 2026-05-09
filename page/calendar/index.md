@@ -61,6 +61,7 @@ comments: false
 
 **June 2026** <br>
 06-Jun - Gold Country Cycling Challenge (Grass Valley) - [Link](https://www.rotarygoldcountrychallenge.com/) <br>
+07-Jun - Western Wheelers: The Sequoia (Los Altos Hills) - [link](https://westernwheelersbicycleclub.wildapricot.org/Sequoia) <br>
 07-Jun - Condor Gravel Challenge 100k (Paicines) - [link](https://condorgravelchallenge.com/) <br>
 07-Jun - Most Beautiful Ride (Lake Tahoe) 100k - [link](https://pages.lls.org/events/home/tahoe26) <br>
 13-Jun - Lost & Found Gravel Festival (Portola) - [link](https://lostandfoundbikeride.com/lost-and-found/ride.php) <br>
