@@ -57,6 +57,7 @@ comments: false
 14-May - Bike to Wherever Day - [Link](https://www.bayareabiketowork.com/) <br>
 16-May - Pedal 4 Miracles (Roseville) - [Link](https://pedalformiracles.com/) <br>
 17-May - Strawberry Fields Road Ride (Watsonville) - [link](https://www.cyclistsforculturalexchange.org/sff) <br>
+30-May - SVMTB Skeggs Trail Maintenance (Members Only) - [link](https://volunteer.openspace.org/need/detail/?need_id=1240959) <br>
 31-May - NCNCA Championship Dash for Cash (Pleasanton) - [link](https://ncnca.org/event/dash-for-cash-5/) <br>
 
 **June 2026** <br>
