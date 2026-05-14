@@ -6,7 +6,7 @@ image: taillight.webp
 tags:
     - Components
     - Safety
-weight: 7   
+weight: 18
 ---
 
 ## TL;DR

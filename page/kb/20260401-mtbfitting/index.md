@@ -6,7 +6,7 @@ image: mtb_bikefit.webp
 tags:
     - New Bike Day
     - Fitting
-weight: 2
+weight: 17
 ---
 
 Getting a proper mountain bike fit is essential for comfort, injury prevention, and handling. Because mountain biking involves dynamic movement, these adjustments serve as a foundational starting point; feel free to tweak them slightly based on your comfort and riding style. <br>

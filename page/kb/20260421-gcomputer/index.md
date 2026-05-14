@@ -7,7 +7,7 @@ tags:
     - Components
     - Analytics
     - Computers
-weight: 6
+weight: 18
 ---
 
 ## TL;DR

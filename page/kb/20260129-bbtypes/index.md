@@ -6,7 +6,7 @@ image: bbs.webp
 tags:
     - Bottom Bracket
     - Maintenance
-weight: 1   
+weight: 15   
 ---
 
 Choosing a bottom bracket (BB) is one of those "behind the scenes" decisions that can significantly impact how much you enjoy (or annoyingly hear) your bike over its lifespan. <br>

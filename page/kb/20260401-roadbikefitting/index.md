@@ -6,7 +6,7 @@ image: bike-fitting.webp
 tags:
     - New Bike Day
     - Fitting
-weight: 1   
+weight: 10   
 category: Road
 comments: false
 ---
