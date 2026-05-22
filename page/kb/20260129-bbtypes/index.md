@@ -4,7 +4,7 @@ description: Bottom Brackets - The Great Debate
 date: 2026-01-29 00:00:00+0000
 image: bbs.webp
 tags:
-    - Bottom Bracket
+    - Components
     - Maintenance
 weight: 15   
 ---
