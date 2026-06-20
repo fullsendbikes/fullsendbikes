@@ -24,7 +24,7 @@ Because this snappy loop leaves you with plenty of daylight to spare, it’s the
 
 ## 📍 Where to Meet & What to Expect
 
-**The Launchpad:** Kick things off from the Oracle Parkway parking lot (right off Marine Parkway). It’s easily accessible, has plenty of space to prep your gear, and connects seamlessly to the trail.  Or [Shores KinderCare](1050 Twin Dolphin Dr, Redwood City, CA 94065) for a South Bay Friendly parking spot.
+**The Launchpad:** Kick things off from the Oracle Parkway parking lot (right off Marine Parkway). It’s easily accessible, has plenty of space to prep your gear, and connects seamlessly to the trail.  Or [Shores KinderCare](https://maps.app.goo.gl/C7b4BARyvW6iDhxa6) for a South Bay Friendly parking spot.
 
 **The Experience:** Expect wide-open skies, refreshing bay breezes, and a fantastic break from vehicle traffic. The route feels incredibly remote despite being right in our tech-heavy backyard. You’ll wind along wide concrete pathways, trace residential lagoons, and power down long, uninterrupted stretches of graded levee gravel.
 
