@@ -56,32 +56,34 @@ capacity drops to 80%.
 pack volume and more weight on the frame to achieve the same watt-hour (Wh) capacity as NMC packs.
 * Cost: Highly economical due to the elimination of expensive cobalt and nickel.
 
+➡️ Amflow (800wh), Bioenno sells e-bike [conversion packs](https://www.bioennopower.com/collections/12v-series-lifepo4-batteries)
+
+
 ### 2. Lithium Nickel Manganese Cobalt Oxide (LiNiMnCoO2 / NMC)
 
 NMC is the absolute dominant force in mainstream commercial e-bikes. By blending nickel (high energy
 density), manganese (stable structural matrix), and cobalt (high ionic conductivity), NMC balances conflicting
 design constraints perfectly. Engineers routinely tune the ratio of these elements (such as NMC 622 or NMC
 811) to optimize performance versus raw capacity.  Supercedes orginal Lithium Manganese Oxide (LMO) chemistry.
-* Energy Density & Weight: Excellent balance (200–250 Wh/kg), allowing sleek down-tube integrations with
-substantial range without turning the bicycle into a cumbersome anchor.
+* Energy Density & Weight: Excellent balance (200–250 Wh/kg), allowing sleek down-tube integrations with substantial range without turning the bicycle into a cumbersome anchor.
 * Lifespan: Respectable, delivering roughly 1,000 cycles. This equates to several years of daily commuting.
-* Safety: Moderate. The layered oxide structure is prone to releasing oxygen at lower temperatures than
-LFP (~210°C), necessitating high-quality Battery Management Systems (BMS).
-* Cost: Exposed to transition metal volatility (specifically cobalt and nickel price spikes), positioning it as a
-mid-to-high tier option.
+* Safety: Moderate. The layered oxide structure is prone to releasing oxygen at lower temperatures than LFP (~210°C), necessitating high-quality Battery Management Systems (BMS).
+* Cost: Exposed to transition metal volatility (specifically cobalt and nickel price spikes), positioning it as a mid-to-high tier option.
+
+➡️ featured on Amflow (700Wh), Bosch, Specialized, Trek, Giant and Gazelle bikes
+
 
 ### 3. Lithium Nickel Cobalt Aluminum Oxide (LiNiCoAlO2 / NCA)
 
-NCA is the formula of choice when maximum energy per gram is the ultimate design metric. Famously championed by high-performance EV manufacturers, NCA brings unparalleled range potential to ultra-
-premium, lightweight e-bikes.
+NCA is the formula of choice when maximum energy per gram is the ultimate design metric. Famously championed by high-performance EV manufacturers, NCA brings unparalleled range potential to ultra-premium, lightweight e-bikes.
 
-* Energy Density & Weight: Peerless in the mass market (up to 300 Wh/kg). Ideal for performance road or
-mountain e-bikes where heavy frames ruin handling dynamics.
-* Lifespan: Lower cyclic lifespan compared to the others, typically degrading to 80% capacity within 500 to
-1,000 cycles depending on discharge rates.
-* Safety: Requires stringent engineering controls. NCA has the lowest thermal runaway breakdown point (~150°C), meaning high-precision thermistors and robust cell propagation preventative measures are non-
-negotiable.
+* Energy Density & Weight: Peerless in the mass market (up to 300 Wh/kg). Ideal for performance road or mountain e-bikes where heavy frames ruin handling dynamics.
+* Lifespan: Lower cyclic lifespan compared to the others, typically degrading to 80% capacity within 500 to 1,000 cycles depending on discharge rates.
+* Safety: Requires stringent engineering controls. NCA has the lowest thermal runaway breakdown point (~150°C), meaning high-precision thermistors and robust cell propagation preventative measures are non-negotiable.
 * Cost: Expensive due to its complex processing requirements and high-purity raw materials.
+
+➡️ Standard for early [Rad Power Bikes](https://www.radpowerbikes.com), [RideAlso](https://ridealso.com/)
+
 
 ### 4. Lithium Titanate (Li4Ti5O12 / LTO)
 
@@ -93,6 +95,8 @@ consumer consumer-grade e-bikes, LTO is the definitive choice for heavy-duty fle
 * Safety: Highest safety margin of any lithium-based variant; virtually impossible to push into thermal runaway.
 * Energy Density & Weight: Severe penalty (70–110 Wh/kg). An LTO pack providing a standard 500Wh capacity would be prohibitively bulky and heavy for standard commuter e-bikes.
 * Cost: Niche chemical processing makes it expensive up-front, though it boasts the lowest cost-per-cycle over its entire life cycle.
+
+➡️ Sought after from Honda Fit/scooters for aftermarket conversion
 
 ![Visual Battery Comparison](https://s3.us-west-2.amazonaws.com/photos.fullsendbikes.com-797233258454-us-west-2-an/batt2.webp)
 
