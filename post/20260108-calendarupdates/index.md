@@ -75,6 +75,7 @@ tags:
 
 **July 2026** <br>
 11-Jul - Death Ride (Alpine County) - [link](https://deathride.com/) <br>
+19-Jul - Women's Group Ride - China Camp (Marin Trail Stewards) - [link](https://marintrailstewards.org/calendar/womens-group-ride-july-2026) <br>
 
 **August 2026** <br>
 01-Aug - Kelyn Akuna Classic Velodrome (San Jose) - [link](https://www.bikereg.com/kelyn-akuna-classic) <br>
