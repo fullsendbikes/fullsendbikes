@@ -1,7 +1,7 @@
 ---
 title: Full 2026 Ride Calendar
 date: 2026-01-07
-lastmod: 2026-06-18
+lastmod: 2026-10-05
 description: Local Road and Gravel cycling events gathered from various sources
 categories:
     - Gravel
@@ -60,12 +60,14 @@ tags:
 17-May - Strawberry Fields Road Ride (Watsonville) - [link](https://www.cyclistsforculturalexchange.org/sff) <br>
 30-May - SVMTB Skeggs Trail Maintenance (Members Only) - [link](https://volunteer.openspace.org/need/detail/?need_id=1240959) <br>
 31-May - NCNCA Championship Dash for Cash (Pleasanton) - [link](https://ncnca.org/event/dash-for-cash-5/) <br>
+31-May - BLM Blaze XC (Fort Ord) - [link](https://cccxcycling.com/3cx-summer-series) <br>
 
 **June 2026** <br>
 06-Jun - Gold Country Cycling Challenge (Grass Valley) - [Link](https://www.rotarygoldcountrychallenge.com/) <br>
 07-Jun - Western Wheelers: The Sequoia (Los Altos Hills) - [link](https://westernwheelersbicycleclub.wildapricot.org/Sequoia) <br>
 07-Jun - Condor Gravel Challenge 100k (Paicines) - [link](https://condorgravelchallenge.com/) <br>
 07-Jun - Most Beautiful Ride (Lake Tahoe) 100k - [link](https://pages.lls.org/events/home/tahoe26) <br>
+07-Jun - Toro Brave XC (Toro Park) - [link](https://cccxcycling.com/3cx-summer-series) <br>
 13-Jun - Lost & Found Gravel Festival (Portola) - [link](https://lostandfoundbikeride.com/lost-and-found/ride.php) <br>
 14-Jun - Sand City Criterium - [link](https://mbrt.bike/sand-city-crit/) <br>
 20-Jun - Enve Grodeo (Utah) 92mi - [link](https://enve.com/pages/grodeo) <br>
@@ -83,22 +85,36 @@ tags:
 06-Aug - Downieville Classic - [link](https://downievilleclassic.com/index.php) <br>
 08-Aug - MCBC Dirt Fondo MTB (Marin County)- [link](https://marinbike.org/dirt-fondo/) <br>
 15-Aug - Crush Challenge 28mi Yountville - [link](https://crushchallenge.org/) <br>
+30-Aug - Fort Ord 50 MTB - [link](https://repackracing.com/fort-ord-50) <br>
 
 **September 2026** <br>
 10-Sep - Mountains to Meadows Endurofest (Quincy) - [link](https://quincymountainstomeadows.com/) <br>
+12-Sep - Grant Grinder XC (Mt Hamilton) - [link](https://cccxcycling.com/3cx-summer-series) <br>
+19-Sep - TBF Growler 40 (Folsom Lake) - [link](https://totalbodyfitness.com/site/race/gold-rush-mtb-2026/) <br>
 20-Sep - Moore Creek Grasshopper MTB (Napa Valley) - [link](https://www.grasshopperadventureseries.com/moorecreekgrasshopper) <br>
 
 **October 2026** <br>
 04-Oct - Sacramento Century - [link](https://www.sacramentocentury.com/) <br>
 04-Oct - The Grizzly 100k [g] - [link](https://thegrizzlyride.com/) <br>
 10-Oct - BiketoberFest MTB (Marin) - [link](https://marintrailstewards.org/calendar/biketoberfest-2026) <br>
+10-Oct - Paradise Royale MTB (Shelter Cove) - [link](https://www.gyppo.com/event/1010-paradise-royale-mtb-race/) <br>
 17-Oct - Foxy Fall Century (Davis) - [link](https://davisbikeclub.org/foxys-fall-century/) <br>
+18-Oct - Central Coast Dirt MTB 100 (Lake San Antonio) - [link](https://repackracing.com/central-coast-dirt-100) <br>
+24-Oct - Kelly Brush Ride (Mill Valley) [r/mtb] - [link](https://give.kellybrushfoundation.org/event/5th-annual-kelly-brush-ride-bay-area/e773797) <br>
 28-Oct - Team Fremont Membership  - [link](https://ncnca.org/clubs/teamfremontnew/) <br>
+
+**November 2026** <br>
+8-Nov - Stafford Lake Rattler XC (Novato) - [link](https://staffordlakexc.com/) <br>
+15-Nov - Annadel Revival XC (Santa Rosa) - [link](https://www.webscorer.com/register?raceid=450422) <br>
+22-Nov - Six Sigma 60 MTB (Middletown) - [link](https://repackracing.com/six-sigma-60) <br>
+
+
 
 ## Bike Swap / Misc
 
 17-May - Bike Swap Meet (BikeX.Org Palo Alto) - [link](https://shop.bikex.org/product/bikex-spring-swap-meet-may-17-2026-10am-2pm-vendor-spot/ZCKYUYWBLQLLVC77BTS62UCN) <br>
 06-Jun - Spring Bike Swap (Marin Museum of Bicycling) - [link](https://www.rotarygoldcountrychallenge.com/) <br>
+24-Oct - Fall Bike Swap (Marin MTB Museum) - [link](https://mmbhof.org/marin-museum-bicycling-events/2026-fall-bike-swap/) <br>
 
 ## List your Event
 
