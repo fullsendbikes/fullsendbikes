@@ -36,6 +36,7 @@ comments: false
 
 ## Bike Swap / Misc
 
+18-Oct - BikeX Fall Swap Meet (San Carlos) - [link](https://shop.bikex.org/product/bikex-fall-swap-meet-october-18-2026-10am-2pm-vendor-spot/QCFJY3IKWYFW5DEIRH3W3CQA) <br>
 24-Oct - Fall Bike Swap (Marin MTB Museum) - [link](https://mmbhof.org/marin-museum-bicycling-events/2026-fall-bike-swap/) <br>
 
 ## List your Event
